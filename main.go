@@ -6,7 +6,6 @@ import (
 	"time"
 
 	"github.com/common-nighthawk/go-figure"
-
 )
 
 func main() {
